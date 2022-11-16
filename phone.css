@@ -24,5 +24,12 @@
 }
 /* Features Section */
 #features{
-    padding: 3% 6%;
+    padding: 3% 8%;
+}
+/* Testimonial Section */
+.carousel-item{
+    padding: 3% 10%;
+}
+.testimonial-text{
+    font-size: 1.5rem;
 }
