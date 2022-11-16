@@ -44,10 +44,17 @@
 /* Pricing Section */
 #pricing{
     padding: 5% 8%;
+    align-items: center;
 }
 .pricing-text{
     font-size: 2rem;
 }
 .pricing-subtext{
     font-size: 1rem;
+}
+.card-body .btn{
+    margin-left: 0rem;
+}
+#cta{
+    padding: 5% 8%;
 }
