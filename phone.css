@@ -11,7 +11,7 @@
 }
 /* Fluid Container */
 .container-fluid{
-    padding: 3% 6%; 
+    padding: 5% 8%; 
 }
 .btn{
     margin: 3%;
@@ -24,7 +24,7 @@
 }
 /* Features Section */
 #features{
-    padding: 3% 8%;
+    padding: 5% 8%;
 }
 /* Testimonial Section */
 .carousel-item{
@@ -33,11 +33,21 @@
 .testimonial-text{
     font-size: 1rem;
 }
+.testimonials-image{
+    width: 30%;
+}
 /* Press Section */
 .press-logo{
     width: 25%;
     margin: 1.125rem;
 }
-.testimonials-image{
-    width: 30%;
+/* Pricing Section */
+#pricing{
+    padding: 5% 8%;
+}
+.pricing-text{
+    font-size: 2rem;
+}
+.pricing-subtext{
+    font-size: 1rem;
 }
