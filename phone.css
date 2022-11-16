@@ -33,6 +33,11 @@
 .testimonial-text{
     font-size: 1rem;
 }
+/* Press Section */
+.press-logo{
+    width: 25%;
+    margin: 1.125rem;
+}
 .testimonials-image{
     width: 30%;
 }
