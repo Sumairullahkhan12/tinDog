@@ -1,0 +1,134 @@
+/* Body */
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+p{
+    color: #8f8f8f;
+    letter-spacing: .1rem;
+    margin-bottom: 0rem;
+}
+/* Title Section */
+#title{
+    background-color: #ff4c68;
+    text-align: left;
+}
+/* Navbar Section */
+.navbar{
+    margin-bottom: 5rem;
+}
+.navbar-brand{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 2.5rem;
+    color: white;
+    letter-spacing: .1rem;
+}
+.nav-item{
+    padding: 0rem 1rem;
+}
+.nav-link{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: white;
+    letter-spacing: .1rem;
+}
+/* Headings */
+.big-heading{
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: white;
+}
+/* Fluid Container */
+.container-fluid{
+    padding: 5% 15% 3%; 
+}
+.btn{
+    margin: 5% 3% 5% 0;
+}
+.iphone{
+    transform: rotate(25deg);
+    position: absolute;
+    width: 22%;
+    right: 25%;
+}
+/* Features Section */
+#features{
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+}
+.mid{
+    padding: 2rem;
+}
+.features-text{
+    font-size: 1.5rem;
+}
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #ff4c68;
+    cursor: pointer;
+}
+/* Testimonial Section */
+#testimonials{
+    background-color: #ef8172;
+    color: #fff;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.testimonial-text{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.testimonials-image{
+    border-radius: 100%;
+    width: 10%;
+    margin: 1.25rem;
+}
+/* Press Section */
+#press{
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 15%;
+    margin: 1.25rem 1.25rem 3.125rem;
+}
+/* Pricing Section */
+#pricing{
+    padding: 6.25rem;
+}
+.pricing-text{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.pricing-subtext{
+    font-size: 1.5rem;
+}
+.pricing-column{
+    padding: 3% 2%;
+}
+#cta{
+    background-color: #ff4c68;
+    padding: 7% 15%;
+}
+#footer{
+    padding: 7% 15%;
+    font-size: 0.75rem;
+    background-color: #fff;
+}
+.social-media{
+    margin-bottom: 1rem;
+}
+.social-icon{
+    padding: 0rem 1rem;
+}
